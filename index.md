@@ -103,6 +103,6 @@ etc.
 > secret image shhhhhh
 
 
-(a secret relative link)[https://github.com/n2singh/cse110-Lab1/blob/vscode-ui/secretmeme.png]
+(a secret relative link)[secretmeme.png]
 
 
