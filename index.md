@@ -1,6 +1,6 @@
 # Naina Singh 
 
-![me](naina.jpg)
+<img src="nainasingh.jpg" width="100" height="100">
 
 ---
 ## All About Me! - an introduction
