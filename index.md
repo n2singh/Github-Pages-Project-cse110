@@ -54,3 +54,7 @@ Projects
 > a picture of my dog mocha for fun :)
 
 ![mocha](image.jpg)
+
+### Pictures!
+
+
