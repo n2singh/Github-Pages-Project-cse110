@@ -1,6 +1,6 @@
 # Naina Singh 
 
-![me](image.jpg)
+![me](naina.jpg)
 
 ---
 ## All About Me! - an introduction
@@ -53,6 +53,6 @@ Projects
 
 > a picture of my dog mocha for fun :)
 
-![mocha](image.jpg)
+![mocha](mocha.jpg)
 
 
