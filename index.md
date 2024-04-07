@@ -53,6 +53,6 @@ Projects
 
 > a picture of my dog mocha for fun :)
 
-<img src="mocha.jpg" width="500" height="500">
+<img src="mochaimage.jpg" width="500" height="500">
 
 
