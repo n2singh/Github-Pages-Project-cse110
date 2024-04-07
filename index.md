@@ -1,6 +1,6 @@
 # Naina Singh 
 
-<img src="nainasingh.jpg" width="100" height="100">
+<img src="nainasingh.jpg" width="500" height="500">
 
 ---
 ## All About Me! - an introduction
