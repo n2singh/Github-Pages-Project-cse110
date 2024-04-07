@@ -10,7 +10,7 @@
 - A Sikh Punjabi woman
 - Name: pronounced nan-uh (like the nana in banana!)
 - Age: 20
-- I am a second year CS major in Muir
+- **I am a second year CS major in Muir**
 - I am hoping to learn more in this course to help me in my future endeavors
 
 ---
@@ -36,6 +36,17 @@
 Favorite Code Snippet:
 `System.out.println("Hello, World!");`
 
+~~I am just kidding~~
+
+Favorite commands:
+```
+cd
+ls
+grep
+pwd
+cat
+find
+```
 ---
 ### Skills/Experience 💻
 
@@ -48,6 +59,24 @@ Projects
 1. USC Summer Program (4 projects in the span of 4 weeks): [portfolio website](https://sites.google.com/view/groupateam1/home)
 2. ACM Projects: [STritons](https://docs.google.com/presentation/d/1iqwashESNX4vQBqEDM9jUYjIFV4_UeoX_j7lsov-YoM/edit?usp=sharing)
 3. CSE 105: [DFA --> NFA](https://github.com/n2singh/CSE_105_Project)
+
+Classes Taken:
+- [x] CSE 8A
+- [x] CSE 8B
+- [x] CSE 12
+- [x] CSE 15L
+- [x] CSE 20
+- [x] CSE 21
+- [x] CSE 30
+- [x] CSE 100
+- [ ] CSE 101
+- [ ] CSE 103
+- [x] CSE 105
+- [ ] CSE 106
+- [ ] CSE 107
+- [ ] CSE 109
+- [ ] CSE 110 (in progress!)
+etc.
 
 ---
 
