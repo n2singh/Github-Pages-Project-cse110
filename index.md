@@ -1,3 +1,11 @@
+## Table of Contents
+[Naina Singh](#Naina-Singh)
+[All About Me! - an introduction](#All-About-Me!---an-introduction)
+[Background](#Background-🪯)
+[Hobbies](#Hobbies-👩‍🎨-*besides-programming-duhh*)
+[Favorites](#Favorites-🩷)
+[Skills/Experience](#Skills/Experience-💻)
+
 # Naina Singh 
 
 <img src="nainasingh.jpg" width="500" height="500">
