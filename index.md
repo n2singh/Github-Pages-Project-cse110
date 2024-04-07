@@ -76,6 +76,7 @@ Classes Taken:
 - [ ] CSE 107
 - [ ] CSE 109
 - [ ] CSE 110 (in progress!)
+
 etc.
 
 ---
