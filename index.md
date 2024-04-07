@@ -1,10 +1,9 @@
 ## Table of Contents
-[Naina Singh](#Naina-Singh)
-[All About Me! - an introduction](#All-About-Me!)
-[Background](#Background)
-[Hobbies](#Hobbies)
-[Favorites](#Favorites)
-[Skills/Experience](#Skills/Experience)
+1. [Naina Singh](#Naina-Singh)
+2. [Background](#Background)
+3. [Hobbies](#Hobbies)
+4. [Favorites](#Favorites)
+5. [Skills/Experience](#Skills-and-Experience)
 
 # Naina Singh 
 
@@ -61,7 +60,7 @@ cat
 find
 ```
 ---
-### Skills/Experience 
+### Skills and Experience 
 💻
 
 - although I have yet to gain more work experience, here's what I have to offer!
