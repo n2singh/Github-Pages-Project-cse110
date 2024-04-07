@@ -53,6 +53,6 @@ Projects
 
 > a picture of my dog mocha for fun :)
 
-![mocha](mocha.jpg)
+<img src="mocha.jpg" width="500" height="500">
 
 
