@@ -100,9 +100,9 @@ etc.
 
 ---
 
-> secret image shhhhhh
+> secret image shhhhhh (using a relative link)
 
 
-(a secret relative link)[secretmeme.png]
+(click here)[cse110-Lab1/blob/vscode-ui/secretmeme.png]
 
 
