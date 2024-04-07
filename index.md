@@ -55,6 +55,4 @@ Projects
 
 ![mocha](image.jpg)
 
-### Pictures!
-
 
