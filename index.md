@@ -98,4 +98,11 @@ etc.
 
 <img src="mochaimage.jpg" width="500" height="500">
 
+---
+
+> secret image shhhhhh
+
+
+(a secret relative link)[]
+
 
