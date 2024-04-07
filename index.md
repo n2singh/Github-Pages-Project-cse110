@@ -1,20 +1,22 @@
 ## Table of Contents
 [Naina Singh](#Naina-Singh)
-[All About Me! - an introduction](#All-About-Me!---an-introduction)
-[Background](#Background-🪯)
-[Hobbies](#Hobbies-👩‍🎨-*besides-programming-duhh*)
-[Favorites](#Favorites-🩷)
-[Skills/Experience](#Skills/Experience-💻)
+[All About Me! - an introduction](#All-About-Me!)
+[Background](#Background)
+[Hobbies](#Hobbies)
+[Favorites](#Favorites)
+[Skills/Experience](#Skills/Experience)
 
 # Naina Singh 
 
 <img src="nainasingh.jpg" width="500" height="500">
 
 ---
-## All About Me! - an introduction
+## All About Me!
 
 ---
-### Background 🪯
+### Background 
+🪯
+
 - A Sikh Punjabi woman
 - Name: pronounced nan-uh (like the nana in banana!)
 - Age: 20
@@ -22,7 +24,9 @@
 - I am hoping to learn more in this course to help me in my future endeavors
 
 ---
-### Hobbies 👩‍🎨 *besides programming duhh*
+### Hobbies 
+👩‍🎨 *besides programming duhh*
+
 - hiking / exploring sd
 - trying new foods
 - drawing / animation
@@ -30,7 +34,8 @@
 - playing video games
 
 ---
-### Favorites 🩷
+### Favorites 
+🩷
 - color: pink
 - food: korean BBQ
 - dessert: tiramisu
@@ -56,7 +61,8 @@ cat
 find
 ```
 ---
-### Skills/Experience 💻
+### Skills/Experience 
+💻
 
 - although I have yet to gain more work experience, here's what I have to offer!
 - I am interning this summer!!
