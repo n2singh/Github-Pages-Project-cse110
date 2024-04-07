@@ -102,6 +102,6 @@ etc.
 
 > secret image shhhhhh (using a relative link)
 
-[click here](cse110-Lab1/blob/vscode-ui/secretmeme.png)
+[click here](https://github.com/n2singh/cse110-Lab1/blob/vscode-ui/mochaimage.jpg)
 
 
